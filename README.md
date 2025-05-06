@@ -1,4 +1,9 @@
-# Course_Design_For_Accreditation
+# Course Design Facilitation For Accreditation
+
+This tool was built as part of a university project to implement and refine a machine learning algorithm that is capable of automatically mapping unit learning outcomes to related course outcomes.
+
+![](/Methodology.png)
+
 
 ## Setup (With VSCode & WSL2):
 
